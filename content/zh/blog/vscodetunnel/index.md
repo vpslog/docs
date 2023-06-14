@@ -56,5 +56,5 @@ tar -xf vscode_cli.tar.gz
 
 ## Conclusion
 
-~~吃灰小鸡的一种利用方式？~~命令合在一起就是`curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64' --output vscode_cli.tar.gz && tar -xf vscode_cli.tar.gz && ./code tunnel`
+吃灰小鸡的一种利用方式？命令合在一起就是`curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64' --output vscode_cli.tar.gz && tar -xf vscode_cli.tar.gz && ./code tunnel`
 
