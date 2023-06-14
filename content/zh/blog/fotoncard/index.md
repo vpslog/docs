@@ -22,7 +22,7 @@ homepage: false
 
 但是，也有部分平台推出了 No KYC 的虚拟卡。全程只需要使用一个邮箱就可以开卡。之前我使用的是 Depay，相应佣金较贵，开卡费 10$。Depay 在近期频繁出现入账失败的情况，在寻找替代品时，我找到了 Fotoncard。
 
-## How to use a Fotoncard
+## How to use Fotoncard
 
 地址： https://dashboard.fotoncard.com/#/pages/register **仅受邀请用户可注册（必填邀请码），可以使用 184671**
 
