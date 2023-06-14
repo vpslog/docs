@@ -40,7 +40,7 @@ Fotoncard 最大优势是免 KYC 支持 USDT 入金。注册完成后，在 Fund
 
 开卡完之后应该会 Issuing 一段时间，然后就可以看到卡了，选择 Topup，把钱从余额划入卡中。之前的初始余额也可以使用
 
-![Alt text](image-6.png)
+![Alt text](image-8.png)
 
 ![Alt text](image-7.png)
 
