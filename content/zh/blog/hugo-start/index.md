@@ -6,7 +6,7 @@ date: 2023-06-19T01:16:43Z
 lastmod: 2023-06-19T01:16:43Z
 draft: false
 weight: 50
-images: ["hugo-start"]
+images: ["hugo.png"]
 categories: ["Dev","Blog"]
 tags: ["Hugo","Blog","Codespace","Cloudflare"]
 contributors: ["Gray"]
