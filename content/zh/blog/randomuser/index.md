@@ -1,10 +1,10 @@
 ---
-title: "使用随机用户信息表单填写工具保护个人隐私"
+title: "构建一个基于随机用户信息的表单填写工具"
 description: ""
 excerpt: ""
 date: 2023-06-22T05:08:28Z
 lastmod: 2023-06-22T05:08:28Z
-draft: true
+draft: false
 weight: 50
 images: ["randomfill.png"]
 categories: ["Dev"]
