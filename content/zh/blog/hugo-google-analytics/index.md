@@ -73,7 +73,9 @@ Google Analytics 是谷歌下面的一套统计系统，支持网站流量的统
 
 ![Alt text](image-12.png)
 
-提交之后，过一段时间就可以收到统计数据了。 
+提交之后，过一段时间就可以收到统计数据了。 一开始没有显示是比较正常的。
+
+![Alt text](image-1.png)
 
 
 ## Conclusion
