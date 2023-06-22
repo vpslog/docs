@@ -7,7 +7,7 @@ lastmod: 2023-06-19T01:16:43Z
 draft: false
 weight: 50
 images: ["hugostart.png"]
-categories: ["Dev","Blog"]
+categories: ["Blog"]
 tags: ["Hugo","Blog","Codespace","Cloudflare"]
 contributors: ["Gray"]
 pinned: false

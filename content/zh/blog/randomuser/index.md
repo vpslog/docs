@@ -14,6 +14,8 @@ pinned: false
 homepage: false
 ---
 
+https://analytics.google.com/analytics/web/provision/#/provision
+
 在一些小网站购买服务的时候，我们往往不希望自己的真实信息泄露。之前我会考虑借助一些网站，但是一个个字段复制起来实在是太不容易了。于是便考虑是否能撰写一个自动填写表单、自动带入随机信息的服务脚本。
 
 ## Introduction
