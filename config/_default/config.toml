@@ -8,6 +8,9 @@ enableRobotsTXT = true
 paginate = 7
 rssLimit = 10
 
+timeout = 600000
+
+
 # Multilingual
 defaultContentLanguage = "zh"
 disableLanguages = ["de", "nl"]
