@@ -6,7 +6,7 @@ date: 2023-06-26T14:55:53Z
 lastmod: 2023-06-26T14:55:53Z
 draft: false
 weight: 50
-images: ["webdav"]
+images: ["webdav.png"]
 categories: ["Blog"]
 tags: ["Selfhost","Webdav"]
 contributors: ["Gray"]
