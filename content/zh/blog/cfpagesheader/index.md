@@ -67,7 +67,11 @@ http-equiv =“Content-Security-Policy” content =“default-src'self'; img-src
 
 ## Disable CSP
 
-简单粗暴的方法就是直接 Disable CSP。
+简单粗暴的方法就是直接 Disable CSP。也就是删了这个 `_headers`。由于这是一个 Hugo 项目，查看项目的 `config.toml`，发现输出了一个 `Headers` 文件。
+
+![Alt text](image-2.png)
+
+注意：不能直接新建 `_headers`在输出目录下。会被覆写。
 
 ## References
 
