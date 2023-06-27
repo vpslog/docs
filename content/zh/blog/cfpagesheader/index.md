@@ -71,7 +71,21 @@ http-equiv =“Content-Security-Policy” content =“default-src'self'; img-src
 
 ![Alt text](image-2.png)
 
+直接去掉所有标头输出。
+
+![Alt text](image-5.png)
+
+保存提交。可以看到 Cloudflare 里现在已经没有 Header 设置了：
+
+![Alt text](image-4.png)
+
+<!-- 清一下缓存，再打开博客页面。Google Analytics 正常加载。 -->
+
 注意：不能直接新建 `_headers`在输出目录下。会被覆写。
+
+## Conclusion
+
+这次由于用的主题比较离谱，给我构建了一个 Header 输出，里面的 CSF 规则直接把外部资源全部拦截了。取消构建输出就 OK。当然这样把其他 Headers 也去掉了。肯定不是最优选项。
 
 ## References
 
