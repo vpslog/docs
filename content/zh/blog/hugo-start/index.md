@@ -347,7 +347,7 @@ cd /workspaces/hugo-blog-start/
 hugo new post/helloworld/index.md
 ```
 
-创建完之后随便写点啥。也可以直接贴图进去，注意把 `draft:false` 改成 `draft:true`
+创建完之后随便写点啥。也可以直接贴图进去，注意把 `draft:true` 改成 `draft:false`
 
 ![Alt text](image-18.png)
 

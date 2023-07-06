@@ -1,4 +1,4 @@
-baseurl = "https://vpslog.net/"
+baseurl = "https://vpslog.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
