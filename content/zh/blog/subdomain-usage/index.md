@@ -6,7 +6,7 @@ date: 2023-07-14T08:05:49Z
 lastmod: 2023-07-14T08:05:49Z
 draft: false
 weight: 50
-images: []
+images: ["2level.png"]
 categories: ["DEV"]
 tags: ["DNS","Domains"]
 contributors: ["Gray"]
