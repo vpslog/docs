@@ -26,8 +26,19 @@ homepage: false
 
 ## Usage
 
-访问 [分发系统](https://domains.vpslog.net/)，默认情况下需要进行登录，在弹出的界面下，
+访问 [分发系统](https://domains.vpslog.net/)，默认情况下需要进行登录（跳转登录界面）。首先关注[验证 BOT](https://t.me/vpslog_distribute_bot)。发送 `/start` 命令，复制 TG ID 并填入登陆界面中，然后完成人机验证，选择`SEND VERIFY CODE`，从 BOT 中获取验证码完成登录。
 
 ![Alt text](image.png)
+
+
+![Alt text](image-1.png)
+
+
+![Alt text](image-2.png)
+
+
+![Alt text](image-3.png)
+
+**注意：本服务仍在测试中，如果有问题请转到 [群组讨论](https://t.me/vpalogchat)**
 
 
